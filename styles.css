@@ -1,0 +1,207 @@
+
+html {
+  height: 100%;  
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  color: #54AFE4;
+  margin-right: 10px;
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+.company-name {
+  display: flex;
+  align-items: center;
+}
+
+.job-title {
+  font-weight: 500;
+  color: black;
+}
+
+.name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.duration {
+  color: rgb(124, 121, 121);
+  font-weight: 300;
+}
+
+.company-logo {
+  padding-right: 10px;
+  width: 20px;
+}
+
+.company-logo > img {
+  width: 100%;
+}
+
+.cont {
+  text-decoration: none;
+  font-style: normal;
+}
+
+body {
+  min-height: 100%;  
+  background: #eee;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: #222;
+  font-size: 14px;
+  line-height: 26px;
+  padding-bottom: 50px;
+}
+
+.resume{
+  width: 800px;
+  height: 1019px;  
+  background: #fff;
+  margin: 0px auto 0px; 
+  box-shadow: 1px 1px 2px #DAD7D7;
+  border-radius: 3px;  
+  padding: 40px;
+  margin-top: 50px;
+}
+
+.header {
+  margin-bottom: 0px;
+}
+
+.full-name {
+  font-size: 40px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.first-name {
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+.last-name {
+  font-weight: 300;
+}
+
+.email ,
+.phone {
+  color: #999;
+  font-weight: 300;
+} 
+
+.separator {
+  height: 10px;
+  display: inline-block;
+  border-left: 2px solid #999;
+  margin: 0px 10px;
+}
+
+.position {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 10px;
+  text-decoration: underline;
+}
+
+
+.details {
+  margin-top: 20px;
+  line-height: 20px;
+}
+
+.section {
+  margin-bottom: 40px;  
+}
+
+.section:last-of-type {
+  margin-bottom: 0px;  
+}
+
+.section__title {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #54AFE4;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.section__list-item {
+  margin-top: 14px;
+  margin-bottom: 20px;
+  height: 80px;
+}
+
+.education__list-item {
+  margin-top: 14px;
+  margin-bottom: 20px;
+  height: 35px;
+}
+
+.section__list-item:last-of-type {
+  margin-bottom: 0;
+}
+
+.left ,
+.right {
+  vertical-align: top;
+  display: inline-block;
+  height: 100%;
+}
+
+.left {
+  width: 22%;    
+}
+
+.right {
+  color:black;
+  font-weight: 300;
+  text-align: left;
+  width: 77%;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  font-style: italic;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #000;
+}
+
+.skills {
+  
+}
+  
+.skills__item {
+  margin-bottom: 10px;  
+}
+
+
+
+
+
+
+
+
+
+
+
