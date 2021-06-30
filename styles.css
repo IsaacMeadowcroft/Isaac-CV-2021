@@ -102,6 +102,7 @@ body {
   justify-content: center;
   text-transform: uppercase;
   margin-bottom: 15px;
+  padding-top: 15px;
 }
 
 .first-name {
@@ -140,7 +141,8 @@ body {
 }
 
 .section {
-  margin-bottom: 20px;  
+  margin-bottom: 20px;
+  padding-top: 15px;  
 }
 
 .section:last-of-type {
