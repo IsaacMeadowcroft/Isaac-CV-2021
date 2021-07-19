@@ -172,6 +172,10 @@ body {
   height: 35px;
 }
 
+#mcgill {
+  height: 70px;
+}
+
 .section__list-item:last-of-type {
   height: 75px;
   margin-bottom: 0;
