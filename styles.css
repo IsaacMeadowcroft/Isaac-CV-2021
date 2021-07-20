@@ -141,7 +141,7 @@ body {
 }
 
 .section {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   padding-top: 15px;  
 }
 
@@ -211,7 +211,7 @@ body {
 
 .education-grade {
   display: flex;
-  align-items: center;
+  align-items: top;
   justify-content: flex-end;
   width: 20%;
   font-size: 12px;
